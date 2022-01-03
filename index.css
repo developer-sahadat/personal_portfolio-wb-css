@@ -104,3 +104,98 @@
     color: gray;
     padding-bottom: 1rem;
 }
+
+.expresss {
+    margin-top: 7rem;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.expresss h2 {
+    font-size: 3.125rem;
+
+}
+
+.express-skils {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.express-1 {
+    box-shadow: 5px 7px 40px gray;
+    width: 45%;
+    height: 80%;
+    margin-right: 2rem;
+    padding: 1%;
+    border-left: 7px solid;
+    border-image: linear-gradient(#FF9974, #FF6B4E);
+    border-image-slice: 4%;
+    border-radius: 0.50rem;
+}
+
+.express-1 h3 {
+    font-size: 2.40rem;
+    padding-left: 1rem;
+    line-height: 3;
+}
+
+.express-1 h5 {
+    font-size: 1.10rem;
+    padding-left: 1rem;
+    color: #FFA500;
+    padding-bottom: 1.50rem;
+}
+
+.express-1 p {
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 3.40rem;
+    color: gray;
+    text-align: justify;
+}
+
+.express-2 {
+    box-shadow: 5px 7px 40px gray;
+    width: 45%;
+    height: 80%;
+    margin-left: 2rem;
+    padding: 1%;
+    border-left: 7px solid;
+    border-image: linear-gradient(#0016FF, #00B0FF);
+    border-image-slice: 4%;
+    border-radius: 5px;
+}
+
+
+.express-2 h3 {
+    font-size: 2.40rem;
+    padding-left: 1rem;
+    line-height: 3;
+}
+
+.express-2 h5 {
+    font-size: 1rem;
+    padding-left: 1.70rem;
+    color: #FFA500;
+    padding-bottom: 1.50rem;
+}
+
+.express-2 p {
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 3.40rem;
+    color: gray;
+    text-align: justify;
+}
+
+.footer-section {
+    margin-top: 6rem;
+    margin-bottom: 1rem;
+    color: gray;
+    text-align: center;
+}
