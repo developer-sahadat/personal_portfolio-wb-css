@@ -4,3 +4,103 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
+.hire-me-section {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+
+
+}
+
+.hire-me-text {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.hire-me-text h1 {
+    font-size: 3.15rem;
+    line-height: 2;
+    padding-top: 1.50rem;
+}
+
+.hire-me-text h2 {
+    font-size: 2.25rem;
+    line-height: 2;
+    padding-bottom: 1rem;
+}
+
+.hire-me-text h2 span {
+    color: #FFA500;
+}
+
+.hire-me-text h3 {
+    padding-bottom: 1.50rem;
+    font-size: 1.75rem;
+}
+
+.hire-me-text p {
+    color: gray;
+    text-align: justify;
+    padding-bottom: 1rem;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 0.60rem 2rem;
+    background-image: linear-gradient(to right, #FF8A67, #FF6D4F);
+    border-radius: 0.5rem;
+    color: white;
+    font-weight: 700;
+}
+
+.hire-section-img {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.hire-section-img img {
+    width: 80%;
+}
+
+.my-cs-section {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.my-cs-img {
+    width: 50%;
+    padding-left: 4rem;
+}
+
+.my-cs-img img {
+    width: 80%;
+}
+
+.my-cs-text {
+    width: 50%;
+}
+
+.my-cs-text h2 {
+    line-height: 3;
+    font-size: 2.50rem;
+    padding-top: 1rem;
+}
+
+.my-cs-text h3 {
+    padding-bottom: 1.50rem;
+}
+
+.my-cs-text p {
+    width: 82%;
+    text-align: justify;
+    color: gray;
+    padding-bottom: 1rem;
+}
